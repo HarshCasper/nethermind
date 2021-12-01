@@ -85,8 +85,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nethermind.Network.Stats", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nethermind.PubSub", "Nethermind.PubSub\Nethermind.PubSub.csproj", "{A913DB39-865B-4162-B279-16654B20D949}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nethermind.DataMarketplace.WebSockets", "Nethermind.DataMarketplace.WebSockets\Nethermind.DataMarketplace.WebSockets.csproj", "{3C731BA7-F932-4771-A890-7FB4AB10F80F}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nethermind.Network", "Nethermind.Network\Nethermind.Network.csproj", "{B34B5EC6-1810-4961-9CF4-4A96B286B6E1}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nethermind.Grpc", "Nethermind.Grpc\Nethermind.Grpc.csproj", "{B404F580-428B-440A-B7AE-A2B846F9568F}"
