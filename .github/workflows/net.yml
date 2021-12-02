@@ -22,10 +22,8 @@ jobs:
     - name: Install dependencies
       run: |
         dotnet restore Baseline.sln
-        dotnet restore Cortex.sln
         dotnet restore Benchmarks.sln
     - name: Build
       run: |
         dotnet build --configuration Release --no-restore Baseline.sln
-        dotnet build --configuration Release --no-restore Cortex.sln
         dotnet build --configuration Release --no-restore Benchmarks.sln
